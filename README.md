@@ -107,7 +107,7 @@ Key visualizations included:
   * `squarify` – treemaps
   * `plotly(express&offline)` – interactive charts
   * `cufflinks`-Plotly + Pandas integration
-* **IDE:**VS Code
+* IDE:VS Code
 ---
 
 ## ✍️ Author
